@@ -1,4 +1,4 @@
-# 📝 Todo App - Kubernetes Deployment
+# 📝 Todo App - Overview
 
 This repository contains Kubernetes manifests to deploy a **Todo App** with a **MySQL database**. The application is exposed using **Ingress**, scaled with **HPA**, and secured using **Secrets**.
 
@@ -37,11 +37,5 @@ Ensure your /etc/hosts file has the correct domain mapping:
 ```
 Open http://todo-app.com in your browser.
 
-📸 Kubernetes Architecture Diagram
-![Image](https://github.com/user-attachments/assets/32525f4c-1e46-49fc-a761-ad272544fb93)
 
-🎥 Live Demo
-https://github.com/user-attachments/assets/f16d197c-ba2f-4e1b-8ecf-0e441a573496
 
-🤝 Contributing
-Feel free to fork this repo and submit pull requests. 🚀
